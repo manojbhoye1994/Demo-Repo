@@ -1,0 +1,24 @@
+manoj bhoye here ...............
+welcome to my study hub
+
+Spring boot annotations
+
+1)SpringBootApplication
+2)RestController
+3)@RequestMapping
+4)GetMapping
+5)PostMapping
+6)PutMapping
+7)DeleteMapping
+8)RequestBody-----@RequestBody is mainly used with CRUD Operations to read the request body.
+9)ResponseBody-----@ResponseBody is typically used with GET methods to write the response body content.
+10)PathVariable------The @PathVariable annotation in Spring is used to extract values from the URI (Uniform Resource Identifier)
+					of a request and bind them to method parameters.It's commonly used in RESTful APIs where resource identifiers 
+					are part of the URL path. 
+					
+					
+					
+	Jpa annotation				
+					
+					@Entity
+					@Table
